@@ -1,1 +1,2 @@
 # E-Commerce-Data-Analysis
+The Project "E-Commerce Sales Data Analysis" aims to conduct sales data analysis to gain insights into sales performance, customer behavior, and market trends. Its purpose is to help Optimize Sales Strategies, Improve Decision Making, Identify Growth Opportunities, and Enhance Customer Satisfaction. Beyond thrilled to share the news that my project has been crowned the Best in College.
